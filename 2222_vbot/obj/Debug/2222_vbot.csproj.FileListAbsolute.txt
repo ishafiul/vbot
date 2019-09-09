@@ -1,0 +1,9 @@
+E:\Unity Project\2222_vbot\2222_vbot\bin\Debug\2222_vbot.exe.config
+E:\Unity Project\2222_vbot\2222_vbot\bin\Debug\2222_vbot.exe
+E:\Unity Project\2222_vbot\2222_vbot\bin\Debug\2222_vbot.pdb
+E:\Unity Project\2222_vbot\2222_vbot\obj\Debug\2222_vbot.csprojResolveAssemblyReference.cache
+E:\Unity Project\2222_vbot\2222_vbot\obj\Debug\_2222_vbot.Form1.resources
+E:\Unity Project\2222_vbot\2222_vbot\obj\Debug\_2222_vbot.Properties.Resources.resources
+E:\Unity Project\2222_vbot\2222_vbot\obj\Debug\2222_vbot.csproj.GenerateResource.Cache
+E:\Unity Project\2222_vbot\2222_vbot\obj\Debug\2222_vbot.exe
+E:\Unity Project\2222_vbot\2222_vbot\obj\Debug\2222_vbot.pdb
